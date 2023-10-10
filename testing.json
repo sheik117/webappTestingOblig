@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "title": "Hva er hovedstaden i Frankrike?",
+            "answers": [
+                {
+                    "answer": "Berlin"
+                },
+                {
+                    "answer": "Madrid"
+                },
+                {
+                    "answer": "Roma"
+                },
+                {
+                    "answer": "Paris",
+                    "correct": true
+                }
+            ],
+            "helper": {
+                "text": "Dette er også kjent som byen med Eiffeltårnet."
+            }
+        },
+        {
+            "title": "Hvilket år ble den første menneskelige månelandingen gjennomført?",
+            "answers": [
+                {
+                    "answer": "1969",
+                    "correct": true
+                },
+                {
+                    "answer": "1979"
+                },
+                {
+                    "answer": "1989"
+                },
+                {
+                    "answer": "1999"
+                }
+            ],
+            "helper": {
+                "text": "Dette var en historisk hendelse i romforskning."
+            }
+        },
+        {
+            "title": "Hvem malte Mona Lisa?",
+            "answers": [
+                {
+                    "answer": "Leonardo da Vinci",
+                    "correct": true
+                },
+                {
+                    "answer": "Pablo Picasso"
+                },
+                {
+                    "answer": "Vincent van Gogh"
+                },
+                {
+                    "answer": "Michelangelo"
+                }
+            ],
+            "helper": {
+                "text": "Dette mesterverket er kjent over hele verden."
+            }
+        },
+        {
+            "title": "Hva er kjemisk symbolet for gull?",
+            "answers": [
+                {
+                    "answer": "Go"
+                },
+                {
+                    "answer": "Gu"
+                },
+                {
+                    "answer": "Au",
+                    "correct": true
+                },
+                {
+                    "answer": "Gl"
+                }
+            ],
+            "helper": {
+                "text": "Dette edelmetallet er mye brukt i smykker."
+            }
+        }
+    ]
+}
